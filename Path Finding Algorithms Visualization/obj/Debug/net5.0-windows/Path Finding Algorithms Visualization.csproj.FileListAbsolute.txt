@@ -1,0 +1,18 @@
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\bin\Debug\net5.0-windows\Path Finding Algorithms Visualization.exe
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\bin\Debug\net5.0-windows\Path Finding Algorithms Visualization.deps.json
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\bin\Debug\net5.0-windows\Path Finding Algorithms Visualization.runtimeconfig.json
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\bin\Debug\net5.0-windows\Path Finding Algorithms Visualization.runtimeconfig.dev.json
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\bin\Debug\net5.0-windows\Path Finding Algorithms Visualization.dll
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\bin\Debug\net5.0-windows\Path Finding Algorithms Visualization.pdb
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\obj\Debug\net5.0-windows\Path Finding Algorithms Visualization.csproj.AssemblyReference.cache
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\obj\Debug\net5.0-windows\Path_Finding_Algorithms_Visualization.Form1.resources
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\obj\Debug\net5.0-windows\Path Finding Algorithms Visualization.csproj.GenerateResource.cache
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\obj\Debug\net5.0-windows\Path Finding Algorithms Visualization.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\obj\Debug\net5.0-windows\Path Finding Algorithms Visualization.AssemblyInfoInputs.cache
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\obj\Debug\net5.0-windows\Path Finding Algorithms Visualization.AssemblyInfo.cs
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\obj\Debug\net5.0-windows\Path Finding Algorithms Visualization.csproj.CoreCompileInputs.cache
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\obj\Debug\net5.0-windows\Path Finding Algorithms Visualization.dll
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\obj\Debug\net5.0-windows\refint\Path Finding Algorithms Visualization.dll
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\obj\Debug\net5.0-windows\Path Finding Algorithms Visualization.pdb
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\obj\Debug\net5.0-windows\Path Finding Algorithms Visualization.genruntimeconfig.cache
+D:\repos\Path Finding Algorithms Visualization\Path Finding Algorithms Visualization\obj\Debug\net5.0-windows\ref\Path Finding Algorithms Visualization.dll
