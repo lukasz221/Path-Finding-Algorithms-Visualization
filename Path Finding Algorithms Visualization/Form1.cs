@@ -36,6 +36,7 @@ namespace Path_Finding_Algorithms_Visualization
 
         private void buttonStartA_Click(object sender, EventArgs e)
         {
+            ClearPath();
             if (aStar == null)
             {
                 aStar = new AStar();
@@ -53,6 +54,7 @@ namespace Path_Finding_Algorithms_Visualization
 
         private void buttonStartDijkstra_Click(object sender, EventArgs e)
         {
+            ClearPath();
             if (dij == null)
             {
                 dij = new Dijkstra();
@@ -70,6 +72,7 @@ namespace Path_Finding_Algorithms_Visualization
 
         private void buttonDepthFirstSearch_Click(object sender, EventArgs e)
         {
+            ClearPath();
             if (dfs == null)
             {
                 dfs = new DepthFirstSearch();

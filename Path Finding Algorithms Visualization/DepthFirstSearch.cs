@@ -33,8 +33,14 @@ namespace Path_Finding_Algorithms_Visualization
 
             while (stackTiles.Any())
             {
+
                 currnet = stackTiles.Last();
                 currnet.SetActive();
+                if (currnet == finish)
+                {
+                    Path();
+                    break;
+                }
                 Thread.Sleep(30);
                 if (currnet.IsVisited)
                 {
@@ -42,11 +48,7 @@ namespace Path_Finding_Algorithms_Visualization
                 }
                 Directions(currnet);
                 currnet.SetVisited();
-                if (currnet == finish)
-                {
-                    Path();
-                    break;
-                }
+
             }
         }
 

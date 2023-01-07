@@ -120,7 +120,7 @@
             // 
             // buttonStartDijkstra
             // 
-            this.buttonStartDijkstra.Location = new System.Drawing.Point(418, 69);
+            this.buttonStartDijkstra.Location = new System.Drawing.Point(418, 12);
             this.buttonStartDijkstra.Name = "buttonStartDijkstra";
             this.buttonStartDijkstra.Size = new System.Drawing.Size(156, 23);
             this.buttonStartDijkstra.TabIndex = 10;
@@ -150,7 +150,7 @@
             // 
             // buttonDepthFirstSearch
             // 
-            this.buttonDepthFirstSearch.Location = new System.Drawing.Point(418, 12);
+            this.buttonDepthFirstSearch.Location = new System.Drawing.Point(418, 69);
             this.buttonDepthFirstSearch.Name = "buttonDepthFirstSearch";
             this.buttonDepthFirstSearch.Size = new System.Drawing.Size(156, 23);
             this.buttonDepthFirstSearch.TabIndex = 14;
